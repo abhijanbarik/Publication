@@ -2,7 +2,8 @@
 
 # Computer Vision for Attendance and Emotion Analysis in School Settings. 
 
-Abstract - This paper presents facial detection and emotion
+# Abstract 
+This paper presents facial detection and emotion
 analysis software developed by and for secondary students and
 teachers. The goal is to provide a tool that reduces the time
 teachers spend taking attendance while also collecting data that
