@@ -1,7 +1,6 @@
 # Publication
 
-# Topic "Computer Vision for Attendance and Emotion Analysis in School
-Settings" 
+# Topic "Computer Vision for Attendance and Emotion Analysis in School Settings" 
 
 Abstract - This paper presents facial detection and emotion
 analysis software developed by and for secondary students and
